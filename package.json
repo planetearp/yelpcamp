@@ -1,0 +1,24 @@
+{
+  "name": "yelpcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/planetearp/yelpcamp.git"
+  },
+  "author": "thiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/planetearp/yelpcamp/issues"
+  },
+  "homepage": "https://github.com/planetearp/yelpcamp#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
